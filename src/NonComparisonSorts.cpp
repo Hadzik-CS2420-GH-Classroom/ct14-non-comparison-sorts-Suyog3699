@@ -1,6 +1,7 @@
 #include "NonComparisonSorts.h"
 #include <iostream>
 #include <algorithm>
+#include <cmath>
 
 // ---------------------------------------------------------------------------
 // Counting Sort
